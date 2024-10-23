@@ -46,8 +46,6 @@
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=futuresea-dev&theme=tokyonight_duo&hide_border=true" alt="futuresea-dev" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
-
-## ⚡ Recent GitHub Activity
 <br/>
 
 ## 📊 Github Stats
